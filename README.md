@@ -116,3 +116,39 @@ The application also displays the word with the highest calculated attention sco
            │
            ▼
    ⭐ Highest Attention
+
+   ---
+
+## 📸 Project Output
+
+### 🖥️ Streamlit Application
+
+The following screenshot shows the AI Attention Visualizer running in the Streamlit interface.
+
+<img width="1427" height="933" alt="Screenshot 2026-09-29 210743" src="https://github.com/user-attachments/assets/b05425d5-ec16-4ab1-b0fa-58bd4ff8155e" />
+
+
+---
+
+### 📝 OCR Extracted Text
+
+The following screenshot shows the text extracted from the uploaded image using Tesseract OCR.
+
+<img width="1161" height="921" alt="Screenshot 2026-09-29 210754" src="https://github.com/user-attachments/assets/bc0a03b2-3acd-4b39-b620-180fd4b6008a" />
+
+
+---
+
+### 🧠 Word Attention Scores
+
+The following screenshot shows the calculated attention scores for the extracted words.
+
+<img width="1341" height="942" alt="Screenshot 2026-09-29 210806" src="https://github.com/user-attachments/assets/dedbfcad-62fb-41c8-8e6f-7da3caad0bb0" />
+
+---
+
+### ⭐ Highest Attention
+
+The application displays the word with the highest calculated attention score.
+
+<img width="1175" height="806" alt="Screenshot 2026-09-29 210815" src="https://github.com/user-attachments/assets/331b8bea-4d58-424a-baed-5bdad1d453d4" />
